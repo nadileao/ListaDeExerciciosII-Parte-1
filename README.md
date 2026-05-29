@@ -6,9 +6,10 @@
 **Curso:** Sistemas de Informação  
 **Disciplina:** Programação Orientada a Objetos  
 **Professor:** Alternei Brito  
-**Autora:** Nádia Maria Leão Xavier  
-**Ano:** 2026
+**Autora:** Nádia Maria Leão Xavier 
 **Linguagem:** Python 3 
+**Ano:** 2026
+
 
 ## 📁 Estrutura do Repositório
 
