@@ -8,7 +8,7 @@
 **Professor:** Alternei Brito  
 **Autora:** Nádia Maria Leão Xavier  
 **Ano:** 2026
-**Linguagem** Python 3 
+**Linguagem:** Python 3 
 
 ## 📁 Estrutura do Repositório
 
