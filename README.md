@@ -32,7 +32,7 @@ ListaDeExerciciosII-Parte-1/
 │   │   └── formatador.py
 │   └── main.py
 │
-├── SistemaFuncionarios/
+├── SistemaDeEmpresa/
 │   ├── models/
 │   │   ├── __init__.py
 │   │   ├── funcionario.py
@@ -118,7 +118,7 @@ Midia (ABC)
 ---
 
 ### 2️⃣ Sistema de Funcionários
-📂 [`SistemaFuncionarios/`](./SistemaDeEmpresa/)
+📂 [`SistemaDeEmpresa/`](./SistemaDeEmpresa/)
 
 Folha de pagamento com diferentes regimes de contratação.
 
