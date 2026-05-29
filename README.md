@@ -47,7 +47,7 @@ ListaDeExerciciosII-Parte-1/
 │   │   └── formatador.py
 │   └── main.py
 │
-├── SistemaNotificacoes/
+├── SistemaDeNotificacoes/
 │   ├── models/
 │   │   ├── __init__.py
 │   │   ├── notificador.py
@@ -62,7 +62,7 @@ ListaDeExerciciosII-Parte-1/
 │   │   └── formatador.py
 │   └── main.py
 │
-├── SistemaImpressao/
+├── SistemaDeImpressao/
 │   ├── models/
 │   │   ├── __init__.py
 │   │   ├── imprimivel.py
@@ -77,7 +77,7 @@ ListaDeExerciciosII-Parte-1/
 │   │   └── formatador.py
 │   └── main.py
 │
-├── SistemaArmazenamento/
+├── SistemaDeArmazenamento/
 │   ├── models/
 │   │   ├── __init__.py
 │   │   ├── armazenador.py
@@ -135,7 +135,7 @@ Funcionario (ABC)
 ---
 
 ### 3️⃣ Sistema de Notificações
-📂 [`SistemaNotificacoes/`](./SistemaNotificacoes/)
+📂 [`SistemaDeNotificacoes/`](./SistemaDeNotificacoes/)
 
 Sistema multi-canal de notificações usando ABC.
 
@@ -154,7 +154,7 @@ CentralNotificacoes → agrega notificadores e dispara para todos
 ---
 
 ### 4️⃣ Sistema de Impressão
-📂 [`SistemaImpressao/`](./SistemaImpressao/)
+📂 [`SistemaDeImpressao/`](./SistemaDeImpressao/)
 
 Demonstra tipagem estrutural com `typing.Protocol`.
 
@@ -172,7 +172,7 @@ RelatorioSimples       → implementa imprimir() sem herdar
 ---
 
 ### 5️⃣ Sistema de Armazenamento
-📂 [`SistemaArmazenamento/`](./SistemaArmazenamento/)
+📂 [`SistemaDeArmazenamento/`](./SistemaDeArmazenamento/)
 
 Exercício comparativo entre ABC e Protocol no mesmo problema.
 
