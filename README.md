@@ -177,3 +177,58 @@ executar_salvamento_flexivel() → aceita qualquer Salvavel
 **Conceitos:** ABC vs Protocol, tipagem nominal vs estrutural.
 
 ---
+## ▶️ Instruções para Execução e Reprodução
+
+### Pré-requisitos
+Antes de executar, certifique-se de ter instalado:
+- **Python 3.8 ou superior**
+
+Para verificar sua versão do Python:
+```bash
+python --version
+```
+
+---
+
+### Como obter o projeto
+
+**Opção 1 — Clonar via Git:**
+```bash
+git clone https://github.com/nadileao/ListaDeExerciciosII-Parte-1.git
+cd ListaDeExerciciosII-Parte-1
+```
+
+**Opção 2 — Baixar manualmente:**
+- Clique em **Code** → **Download ZIP**
+- Extraia o arquivo
+- Abra a pasta no terminal
+
+---
+
+### Como executar cada sistema
+
+Entre na pasta do sistema desejado e execute o `main.py`:
+
+```bash
+# Sistema 1 — Mídias Educacionais
+cd SistemaEducacional
+python main.py
+
+# Sistema 2 — Funcionários
+cd SistemaFuncionarios
+python main.py
+
+# Sistema 3 — Notificações
+cd SistemaNotificacoes
+python main.py
+
+# Sistema 4 — Impressão
+cd SistemaImpressao
+python main.py
+
+# Sistema 5 — Armazenamento
+cd SistemaArmazenamento
+python main.py
+```
+
+---
