@@ -2,15 +2,16 @@
 
 ## 🎓 Dados Acadêmicos
 
-Informação| Detalhes
-Universidade| Universidade Federal do Amazonas — UFAM
-Instituto| ICET — Instituto de Ciências Exatas e Tecnologia
-Curso| Sistemas de Informação
-Disciplina| Programação Orientada a Objetos
-Professor| Alternei Brito
-Desenvolvido por| Nádia Maria Leão Xavier
-Período| 2026.1
-Linguagem| Python 3
+| Informação | Detalhes |
+|---|---|
+| **Universidade** | Universidade Federal do Amazonas — UFAM |
+| **Instituto** | ICET — Instituto de Ciências Exatas e Tecnologia |
+| **Curso** | Sistemas de Informação |
+| **Disciplina** | Programação Orientada a Objetos |
+| **Professor** | Alternei Brito |
+| **Desenvolvido por** | Nádia Maria Leão Xavier |
+| **Período** | 2026.1 |
+| **Linguagem** | Python 3 |
 
 ## 📁 Estrutura do Repositório
 
