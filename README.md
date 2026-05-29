@@ -172,7 +172,7 @@ RelatorioSimples       → implementa imprimir() sem herdar
 ---
 
 ### 5️⃣ Sistema de Armazenamento
-📂 [`SistemaDeArmazenamento/`](./https://github.com/nadileao/ListaDeExerciciosII-Parte-1/tree/main/SistemaDeArmazemento/)
+📂 [`SistemaDeArmazenamento/`](SistemaDeArmazemento/)
 
 Exercício comparativo entre ABC e Protocol no mesmo problema.
 
