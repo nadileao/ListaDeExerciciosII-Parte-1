@@ -204,7 +204,6 @@ cd ListaDeExerciciosII-Parte-1
 - Abra a pasta no terminal
 
 ---
-
 ### Como executar cada sistema
 
 Entre na pasta do sistema desejado e execute o `main.py`:
@@ -215,20 +214,19 @@ cd SistemaEducacional
 python main.py
 
 # Sistema 2 — Funcionários
-cd SistemaFuncionarios
+cd SistemaDeEmpresa
 python main.py
 
 # Sistema 3 — Notificações
-cd SistemaNotificacoes
+cd SistemaNotificações
 python main.py
 
 # Sistema 4 — Impressão
-cd SistemaImpressao
+cd SistemaDeImpressao
 python main.py
 
 # Sistema 5 — Armazenamento
-cd SistemaArmazenamento
+cd SistemaDeArmazemento
 python main.py
 ```
-
 ---
