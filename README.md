@@ -118,7 +118,7 @@ Midia (ABC)
 ---
 
 ### 2️⃣ Sistema de Funcionários
-📂 [`SistemaFuncionarios/`](./SistemaFuncionarios/)
+📂 [`SistemaFuncionarios/`](./SistemaDeEmpresa/)
 
 Folha de pagamento com diferentes regimes de contratação.
 
