@@ -135,7 +135,7 @@ Funcionario (ABC)
 ---
 
 ### 3️⃣ Sistema de Notificações
-📂 [`SistemaDeNotificacoes/`](./SistemaDeNotificacoes/)
+📂 [`SistemaDeNotificacoes/`](./SistemaDeImpressao/)
 
 Sistema multi-canal de notificações usando ABC.
 
