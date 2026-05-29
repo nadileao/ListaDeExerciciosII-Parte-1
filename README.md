@@ -1,19 +1,16 @@
 # Programação Orientada a Objetos - Lista de Exercícios II Parte I
 
-## 📚 Informações Gerais
+## 🎓 Dados Acadêmicos
 
-| Campo | Detalhes |
-|-------|----------|
-| **Instituição** | Universidade Federal do Amazonas — UFAM |
-| **Instituto** | Instituto de Ciências Exatas e Tecnologia — ICET |
-| **Curso** | Sistemas de Informação |
-| **Professor** | Alternei Brito |
-| **Disciplina** | Programação Orientada a Objetos |
-| **Atividade** | Lista de Exercícios II — Parte 1 |
-| **Autora** | Nádia Maria Leão Xavier |
-| **Última Atualização** | Maio de 2026 |
-
----
+Informação| Detalhes
+Universidade| Universidade Federal do Amazonas — UFAM
+Instituto| ICET — Instituto de Ciências Exatas e Tecnologia
+Curso| Sistemas de Informação
+Disciplina| Programação Orientada a Objetos
+Professor| Alternei Brito
+Desenvolvido por| Nádia Maria Leão Xavier
+Período| 2026.1
+Linguagem| Python 3
 
 ## 📁 Estrutura do Repositório
 
