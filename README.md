@@ -17,6 +17,86 @@
 
 ```
 ListaDeExerciciosII-Parte-1/
+│
+├── README.md
+│
+├── SistemaEducacional/
+│   ├── main.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── midia.py
+│   │   ├── video.py
+│   │   ├── podcast.py
+│   │   └── texto_narrado.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   └── plataforma.py
+│   └── utils/
+│       ├── __init__.py
+│       └── formatador.py
+│
+├── SistemaFuncionarios/
+│   ├── main.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── funcionario.py
+│   │   ├── funcionario_assalariado.py
+│   │   ├── funcionario_horista.py
+│   │   └── funcionario_comissionado.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   └── empresa.py
+│   └── utils/
+│       ├── __init__.py
+│       └── formatador.py
+│
+├── SistemaNotificacoes/
+│   ├── main.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── notificador.py
+│   │   ├── notificador_email.py
+│   │   ├── notificador_sms.py
+│   │   └── notificador_app.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   └── central_notificacoes.py
+│   └── utils/
+│       ├── __init__.py
+│       └── formatador.py
+│
+├── SistemaImpressao/
+│   ├── main.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── imprimivel.py
+│   │   ├── boleto.py
+│   │   ├── etiqueta.py
+│   │   └── relatorio_simples.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   └── processador.py
+│   └── utils/
+│       ├── __init__.py
+│       └── formatador.py
+│
+└── SistemaArmazenamento/
+    ├── main.py
+    ├── models/
+    │   ├── __init__.py
+    │   ├── armazenador.py
+    │   ├── armazenador_arquivo.py
+    │   ├── armazenador_banco.py
+    │   ├── salvavel.py
+    │   └── armazenador_nuvem.py
+    ├── services/
+    │   ├── __init__.py
+    │   └── executores.py
+    └── utils/
+        ├── __init__.py
+        └── formatador.py
+
+ListaDeExerciciosII-Parte-1/
 ├── SistemaEducacional/
 │   ├── models/
 │   │   ├── __init__.py
