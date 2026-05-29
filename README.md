@@ -27,9 +27,6 @@ ListaDeExerciciosII-Parte-1/
 │   ├── services/
 │   │   ├── __init__.py
 │   │   └── plataforma.py
-│   ├── utils/
-│   │   ├── __init__.py
-│   │   └── formatador.py
 │   └── main.py
 │
 ├── SistemaDeEmpresa/
@@ -42,9 +39,6 @@ ListaDeExerciciosII-Parte-1/
 │   ├── services/
 │   │   ├── __init__.py
 │   │   └── empresa.py
-│   ├── utils/
-│   │   ├── __init__.py
-│   │   └── formatador.py
 │   └── main.py
 │
 ├── SistemaDeNotificacoes/
@@ -57,9 +51,6 @@ ListaDeExerciciosII-Parte-1/
 │   ├── services/
 │   │   ├── __init__.py
 │   │   └── central_notificacoes.py
-│   ├── utils/
-│   │   ├── __init__.py
-│   │   └── formatador.py
 │   └── main.py
 │
 ├── SistemaDeImpressao/
@@ -72,9 +63,6 @@ ListaDeExerciciosII-Parte-1/
 │   ├── services/
 │   │   ├── __init__.py
 │   │   └── processador.py
-│   ├── utils/
-│   │   ├── __init__.py
-│   │   └── formatador.py
 │   └── main.py
 │
 ├── SistemaDeArmazenamento/
@@ -88,9 +76,6 @@ ListaDeExerciciosII-Parte-1/
 │   ├── services/
 │   │   ├── __init__.py
 │   │   └── executores.py
-│   ├── utils/
-│   │   ├── __init__.py
-│   │   └── formatador.py
 │   └── main.py
 │
 └── README.md
